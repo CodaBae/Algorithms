@@ -1,24 +1,16 @@
 RUNTIME COMPLEXITY
 
 Describes the performance of an algorithm
-
-
-going thru many problems with differents solutionsthis is anothwer way to investigate the best solution
-
-we use it to compare wihich solutio is best for a give problem
-
-a question o ask your self
-
+going through many problems with different solutions this is another way to investigate the best solution
+we use it to compare which solutions is best for a given problem
+a question to ask yourself
 how much more processing power/time is required to run your algorithm if we double the inputs?
-
 example
 the string reverse
+in the second solution we only looped for each additional character we had 1 step through a loop
+we would call this the linear runtime because there is a one to one relationship
 
-int th first solution we only looped gonce for each additional character we had 1 step through a loop
-we would call this the linear runtime becus ther is a one to one relationship
-
-
-eg steps
+Another example will be the steps
 as 'n' increased by one we had to do way, way more stuff, or (n*n) things total
-this would be quadrtic runtime ...there was no one to one relationship
-cas we had to do many things
+this would be quadratic runtime …there was no one to one relationship
+cause we had to do many things
