@@ -17,7 +17,7 @@
 //       '### '
 //       '####'
 
-// really had to think this thourgh...the truth is i piped from a source
+// really had to think this thourgh...the truth is i peeped from a source
 function steps(n) {
 	for (let col = 0; col < n; col++) {
 		let result = '';
